@@ -1,2 +1,2 @@
-	# InverseRenderNet training on Albedo dataset
+# InverseRenderNet training on Albedo dataset
 	
